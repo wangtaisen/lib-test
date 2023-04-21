@@ -1,0 +1,11 @@
+{
+  "name": "lib-test",
+  "version": "0.0.1",
+  "main": "index.js",
+  "peerDependencies": {
+    "react": ">=16.0.0",
+    "react-dom": ">=16.0.0",
+    "axios": ">=0.2.0",
+    "moment": ">=2.0.0"
+  }
+}
